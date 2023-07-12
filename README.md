@@ -18,4 +18,4 @@ Here's a glimpse of my GitHub contributions in the fields of cybersecurity and A
 
 
 ## Contact me
-<a href="https://adityav.au"><img src="https://i.imgur.com/6tc3CAP.png" alt="Website" height="25" width="100"></a> <a href="https://www.linkedin.com/in/addievo/"><img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn" width="35" height="35"></a>
+<a href="https://adityav.au" target="_blank"><img src="https://i.imgur.com/6tc3CAP.png" alt="Website" height="25" width="100"></a> <a href="https://www.linkedin.com/in/addievo/" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn" width="35" height="35"></a>
