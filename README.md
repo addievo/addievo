@@ -14,6 +14,7 @@ I'm Aditya Varma, a computer science student with a strong interest in cybersecu
 
 Here's a glimpse of my GitHub contributions in the fields of cybersecurity and AI:
 
+- [Secure Chat Webapp with Asymmetric Encryption](https://github.com/addievo/secureChatApp)
 - [Intrusion Detection](https://github.com/addievo/intrusionDetection)
 - [My Portfolio Website](https://github.com/addievo/addievo.github.io/)
 - [Noun Checker and extractor (Coded in Java)](https://github.com/addievo/nounChecker/)
