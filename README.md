@@ -1,3 +1,4 @@
+## Intro 
 ### Hello there! <img align="center" src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" />
 
 I'm Aditya Varma, a computer science student with a strong interest in cybersecurity and artificial intelligence. My passion lies in developing innovative solutions and exploring the depths of AI.
@@ -9,9 +10,7 @@ I'm Aditya Varma, a computer science student with a strong interest in cybersecu
   <img  alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/typio/typio/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
-
+## Projects
 Here's a glimpse of my GitHub contributions in the fields of cybersecurity and AI:
 
 - [Secure Chat Webapp with Asymmetric Encryption](https://github.com/addievo/secureChatApp)
@@ -19,6 +18,7 @@ Here's a glimpse of my GitHub contributions in the fields of cybersecurity and A
 - [My Portfolio Website](https://github.com/addievo/addievo.github.io/)
 - [Noun Checker and extractor (Coded in Java)](https://github.com/addievo/nounChecker/)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=addievo)](https://git.io/streak-stats)
 
 
 
