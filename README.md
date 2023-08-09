@@ -19,8 +19,6 @@ Here's a glimpse of my GitHub contributions in the fields of cybersecurity and A
 - [My Portfolio Website](https://github.com/addievo/addievo.github.io/)
 - [Noun Checker and extractor (Coded in Java)](https://github.com/addievo/nounChecker/)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=addievo)](https://git.io/streak-stats)
-
 
 
 ## Contact me
