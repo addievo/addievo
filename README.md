@@ -1,7 +1,7 @@
 ## Intro 
 ### Hello there! <img align="center" src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" />
 
-I'm Aditya Varma, a computer science student with a strong interest in cybersecurity and artificial intelligence. My passion lies in developing innovative solutions and exploring the depths of AI.
+I'm Cosmo, a computer science student with a strong interest in cybersecurity and artificial intelligence. My passion lies in developing innovative solutions and exploring the depths of AI.
 
 
 <picture>
